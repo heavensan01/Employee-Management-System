@@ -1,0 +1,3 @@
+-- This project now uses H2, so no manual database creation is required.
+-- The database file is created automatically under ./data/employee_management.
+-- Tables are created/updated automatically by Hibernate (spring.jpa.hibernate.ddl-auto=update).
